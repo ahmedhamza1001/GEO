@@ -4,9 +4,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $active_group = 'default';
 $query_builder = TRUE;
 $hostname ='localhost';
-$username ='k60k1_geo';
-$password ='([a}-0e@@&6W';
-$database ='k60k1_geo';	
+$username ='u348862630_geo';
+$password ='8w|ANkXv!';
+$database ='u348862630_geo';	
 
 $db['default'] = array(
 	'dsn'	=> '',
